@@ -41,7 +41,7 @@ Este repositório tem como objetivo armazenar e organizar os códigos desenvolvi
 
 | Arquivo | Descrição |
 |----------|------------|
-| [AnalisarArrayNumPy.py](https://github.com/00Eden/Topicos_de_big_data__em_python/blob/main/Exerc%C3%ADcios_com_NumPy_Pandas_Matplotlib/AnalisarArrayNumPy.py) | Análise e manipulação de arrays utilizando NumPy |
+| [AnalisarArrayNumPy.py](https://github.com/00Eden/Topicos_de_big_data__em_python/blob/main/Exerc%C3%ADcios_com_NumPy_Pandas_Matplotlib/AnaliseArrayNumPy.py) | Análise e manipulação de arrays utilizando NumPy |
 | [EstatisticasDataFrame.py](https://github.com/00Eden/Topicos_de_big_data__em_python/blob/main/Exerc%C3%ADcios_com_NumPy_Pandas_Matplotlib/EstatisticasDataFrame.py) | Geração de estatísticas em DataFrames com Pandas |
 | [GraficoBarrasPandasMatplotlib.py](https://github.com/00Eden/Topicos_de_big_data__em_python/blob/main/Exerc%C3%ADcios_com_NumPy_Pandas_Matplotlib/GraficoBarrasPandasMatplotlib.py) | Criação de gráficos de barras utilizando Pandas e Matplotlib |
 | [ManipulandoDataFrame.py](https://github.com/00Eden/Topicos_de_big_data__em_python/blob/main/Exerc%C3%ADcios_com_NumPy_Pandas_Matplotlib/ManipulandoDataFrame.py) | Manipulação e tratamento de dados em DataFrames |
